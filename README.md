@@ -35,4 +35,6 @@ Whole genome sequencing (WGS) analysis of 5 clinical *Klebsiella pneumoniae* iso
 FastQC, MultiQC, fastp, SPAdes, QUAST, BLASTn, FastANI, AMRFinderPlus, ABRicate, Snippy, IQ-TREE, iTOL, mlst
 
 ## Author
-Bioinformatics Project
+Lyn Zihumo-
+Midlands State University-
+Bioinformatics Project1 2026
